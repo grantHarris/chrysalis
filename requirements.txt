@@ -1,5 +1,5 @@
 cffi==1.12.3
-numpy==1.16.4
+numpy==1.22.0
 pycparser==2.19
 sounddevice==0.3.13
 pytest==4.6.3
